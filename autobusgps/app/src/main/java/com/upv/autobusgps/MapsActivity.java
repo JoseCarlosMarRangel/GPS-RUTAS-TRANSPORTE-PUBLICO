@@ -47,7 +47,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     int marcadores = 0; //solo se pueden poner 2 marcadores en el mapa
 
     //clave de googleMapsApi que sirve para poder generar la ruta
-    static private String LlaveMapaObtenidaGoogleMapsApi ="AIzaSyAFN0Q15v-zwcZ5z_pQEo0Yejz4rriS6V8";
+    static private String LlaveMapaObtenidaGoogleMapsApi ="AIzaSyCeThucUanCALfMUYskFazmlAD8eoqRHJo";
 
     //cada ruta cuenta con un arreglo de 25 puntos cada uno con su respectivas latitudes y longitudes
     LatLng ruta1[];
